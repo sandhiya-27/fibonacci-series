@@ -1,0 +1,14 @@
+/* print fibonacci series */
+//0 1 1 2 3 5 8 13 21..
+class test {
+    public static void main(String[] args){
+        int a=0,b=1,c;
+        System.out.print(a+" "+b);
+        for(int i=1; i<=10; i++){
+            c=ab;
+            System.out.print(" " +c);
+            a=b;
+            b=c;
+}
+}
+}
